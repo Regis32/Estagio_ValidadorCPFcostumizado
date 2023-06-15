@@ -1,0 +1,33 @@
+.container {
+    text-align: center;
+}
+
+#cpf {
+    padding: 8px;
+    margin-right: 8px;
+    color: black;
+    background-color: white ;
+}
+
+
+#btValidar {
+    padding: 8px;
+    background-color: rgba(0, 0, 0, 0.13);
+    color: black;
+}
+
+#btValidar:hover{
+    color: white;
+    background-color: rgba(0, 128, 0, 0.726);
+}
+
+
+.footer {
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.header {
+    color: blue;
+}
+
